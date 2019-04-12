@@ -6,4 +6,4 @@
 
 [Post-processing using IRCNN](https://drive.google.com/drive/folders/1Ezzwa-dg15UbkPYZIAd3BNb7Zi5cJ-35?usp=sharing)
 
-*The code will also be released with instructions on GitHub after the conclusion of the NTIRE2019-Dehazing Challenge*
+*The model details and code will also be released with instructions on GitHub after the conclusion of the NTIRE2019-Dehazing Challenge*
